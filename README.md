@@ -1,2 +1,12 @@
 # creative-coding-template
-Template for creative coding.
+Webpack / TypeScript / P5.js / Sass
+
+# Usage
+init
+```
+npm i
+```
+development
+```
+npm run dev
+```
